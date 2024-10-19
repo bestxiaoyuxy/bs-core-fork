@@ -5,7 +5,7 @@
   "framework": "vite",
   "rewrites": [
     {
-      "source": "/search",
+      "source": "/searchs",
       "destination": "https://book-searcher.eu.org/search"
     },
     {
