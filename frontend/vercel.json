@@ -10,7 +10,7 @@
     },
     {
       "source": "/libgen/:path*",
-      "destination": "https://library.lol/:path*"
+      "destination": "https://libgen.is/:path*"
     },
     {
       "source": "/zlibrary/:path*",
