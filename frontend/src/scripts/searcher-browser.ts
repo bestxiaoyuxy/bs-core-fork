@@ -2,7 +2,7 @@ import type { Book, SearchQuery } from './searcher';
 import axios from 'axios';
 
 const http = axios.create({
-  baseURL: import.meta.env.VITE_BACKEND_BASE_API,
+  baseURL: "https://book-searcher.eu.org/",
   timeout: 30000
 });
 
